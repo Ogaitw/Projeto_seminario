@@ -1,9 +1,9 @@
-package local;
+package entidades;
 
-public class local {
+public class Local {
     private String endereco;
 
-    public local(String endereco) {
+    public Local(String endereco) {
         this.endereco = endereco;
     }
 
